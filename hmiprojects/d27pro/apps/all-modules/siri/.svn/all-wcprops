@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnplugin/D27/d27project/!svn/ver/198/hmiprojects/d27pro/apps/all-modules/siri
+END
+MainPage.qml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnplugin/D27/d27project/!svn/ver/1/hmiprojects/d27pro/apps/all-modules/siri/MainPage.qml
+END
+Application.qml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnplugin/D27/d27project/!svn/ver/198/hmiprojects/d27pro/apps/all-modules/siri/Application.qml
+END
+qml-siri.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnplugin/D27/d27project/!svn/ver/1/hmiprojects/d27pro/apps/all-modules/siri/qml-siri.qrc
+END
+module-siri.pri
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnplugin/D27/d27project/!svn/ver/1/hmiprojects/d27pro/apps/all-modules/siri/module-siri.pri
+END
+resources-siri.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnplugin/D27/d27project/!svn/ver/1/hmiprojects/d27pro/apps/all-modules/siri/resources-siri.qrc
+END

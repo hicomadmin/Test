@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/menu">
+        <file>Application.qml</file>
+        <file>MainPage.qml</file>
+        <file>MediaPage.qml</file>
+    </qresource>
+</RCC>

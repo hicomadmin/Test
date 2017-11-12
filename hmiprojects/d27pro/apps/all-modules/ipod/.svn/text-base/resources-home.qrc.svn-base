@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources-home/Calendar.png</file>
+        <file>resources-home/CarLife.png</file>
+        <file>resources-home/Ecolink.png</file>
+        <file>resources-home/Manual.png</file>
+        <file>resources-home/Meida.png</file>
+        <file>resources-home/Phone.png</file>
+        <file>resources-home/Radio.png</file>
+        <file>resources-home/Setting.png</file>
+    </qresource>
+</RCC>

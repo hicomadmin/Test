@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnplugin/D27/d27project/!svn/ver/252/shared/include
+END
+comm.pri
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnplugin/D27/d27project/!svn/ver/252/shared/include/comm.pri
+END
+hs_attr_value.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnplugin/D27/d27project/!svn/ver/252/shared/include/hs_attr_value.h
+END
+hs_socket_app.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnplugin/D27/d27project/!svn/ver/252/shared/include/hs_socket_app.h
+END
+hs_data_center.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnplugin/D27/d27project/!svn/ver/252/shared/include/hs_data_center.h
+END
+socket_driver.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnplugin/D27/d27project/!svn/ver/252/shared/include/socket_driver.h
+END
+hs_attr_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnplugin/D27/d27project/!svn/ver/252/shared/include/hs_attr_model.h
+END
+hs_hmidata_plugin_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnplugin/D27/d27project/!svn/ver/252/shared/include/hs_hmidata_plugin_config.h
+END
+hs_plugin_base_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnplugin/D27/d27project/!svn/ver/252/shared/include/hs_plugin_base_controller.h
+END
+hs_plugin_base_controller_global.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnplugin/D27/d27project/!svn/ver/252/shared/include/hs_plugin_base_controller_global.h
+END

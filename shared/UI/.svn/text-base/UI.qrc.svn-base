@@ -1,0 +1,81 @@
+<RCC>
+    <qresource prefix="/UI/Private">
+        <file alias="Control.qml">Private/Control.qml</file>
+        <file alias="Container.qml">Private/Container.qml</file>
+        <file alias="ContainerTransition.qml">Private/ContainerTransition.qml</file>
+        <file alias="ContainerTransitionDelegate.qml">Private/ContainerTransitionDelegate.qml</file>
+        <file alias="DialogTransition.qml">Private/DialogTransition.qml</file>
+        <file alias="DialogTransitionDelegate.qml">Private/DialogTransitionDelegate.qml</file>
+    </qresource>
+    <qresource prefix="/UI/Controls">
+        <file alias="Button.qml">Controls/Button.qml</file>
+        <file alias="ButtonStateImage.qml">Controls/ButtonStateImage.qml</file>
+        <file alias="ButtonStateRectangle.qml">Controls/ButtonStateRectangle.qml</file>
+        <file alias="ButtonStateLabel.qml">Controls/ButtonStateLabel.qml</file>
+        <file alias="ImageButton.qml">Controls/ImageButton.qml</file>
+        <file alias="ColorButton.qml">Controls/ColorButton.qml</file>
+        <file alias="LabelButton.qml">Controls/LabelButton.qml</file>
+        <file alias="IconButton.qml">Controls/IconButton.qml</file>
+        <file alias="Text.qml">Controls/Text.qml</file>
+        <file alias="Label.qml">Controls/Label.qml</file>
+        <file alias="UnitText.qml">Controls/UnitText.qml</file>
+        <file alias="RatioText.qml">Controls/RatioText.qml</file>
+        <file alias="RangeBar.qml">Controls/RangeBar.qml</file>
+        <file alias="Slider.qml">Controls/Slider.qml</file>
+        <file alias="ProgressBar.qml">Controls/ProgressBar.qml</file>
+        <file alias="ScrollBar.qml">Controls/ScrollBar.qml</file>
+        <file alias="QuickSearchBar.qml">Controls/QuickSearchBar.qml</file>
+        <file alias="TabNavBar.qml">Controls/TabNavBar.qml</file>
+        <file alias="Tab.qml">Controls/Tab.qml</file>
+        <file alias="Dialog.qml">Controls/Dialog.qml</file>
+        <file alias="Icon.qml">Controls/Icon.qml</file>
+        <file alias="ListItemDelegate.qml">Controls/ListItemDelegate.qml</file>
+        <file alias="PaginationInfo.qml">Controls/PaginationInfo.qml</file>
+        <file alias="PagedFlickable.qml">Controls/PagedFlickable.qml</file>
+        <file alias="PagedListView.qml">Controls/PagedListView.qml</file>
+        <file alias="PagedGridView.qml">Controls/PagedGridView.qml</file>
+        <file alias="Switch.qml">Controls/Switch.qml</file>
+        <file alias="PaginationYLoader.qml">Controls/PaginationYLoader.qml</file>
+        <file alias="PaginationLoaderDelegate.qml">Controls/PaginationLoaderDelegate.qml</file>
+        <file alias="PaginationXLoader.qml">Controls/PaginationXLoader.qml</file>
+        <file alias="Animation_Text.qml">Controls/Animation_Text.qml</file>
+        <file alias="ButtonStateGradient.qml">Controls/ButtonStateGradient.qml</file>
+        <file alias="GradientButton.qml">Controls/GradientButton.qml</file>
+        <file alias="ListItemDelegateBase.qml">Controls/ListItemDelegateBase.qml</file>
+        <file alias="RadioButtons.qml">Controls/RadioButtons.qml</file>
+        <file alias="Icon_Button.qml">Controls/Icon_Button.qml</file>
+        <file alias="ButtonState_GradientRect.qml">Controls/ButtonState_GradientRect.qml</file>
+        <file alias="BgImageButton.qml">Controls/BgImageButton.qml</file>
+        <file alias="ButtonStateImageOverlay.qml">Controls/ButtonStateImageOverlay.qml</file>
+        <file alias="NonAnimation_Text.qml">Controls/NonAnimation_Text.qml</file>
+        <file alias="GridItemDelegateBase.qml">Controls/GridItemDelegateBase.qml</file>
+        <file alias="ButtonState.qml">Controls/ButtonState.qml</file>
+        <file alias="GradientBar.qml">Controls/GradientBar.qml</file>
+        <file alias="GradientButton_focus.qml">Controls/GradientButton_focus.qml</file>
+        <file alias="MouseArea.qml">Controls/MouseArea.qml</file>
+    </qresource>
+    <qresource prefix="/UI/Controls/Extra">
+        <file alias="FadeColorButton.qml">Controls/Extra/FadeColorButton.qml</file>
+    </qresource>
+    <qresource prefix="/UI/Core">
+        <file alias="StackContainer.qml">Core/StackContainer.qml</file>
+        <file alias="StackContainer.js">Core/StackContainer.js</file>
+        <file alias="VirtualApplication.qml">Core/VirtualApplication.qml</file>
+        <file alias="MultiApplications.qml">Core/MultiApplications.qml</file>
+        <file alias="Page.qml">Core/Page.qml</file>
+        <file alias="Window.qml">Core/Window.qml</file>
+        <file alias="KeyEventHandler.qml">Core/KeyEventHandler.qml</file>
+        <file alias="PluginsManager.js">Core/PluginsManager.js</file>
+        <file alias="PluginsManager.qml">Core/PluginsManager.qml</file>
+        <file alias="TabView.qml">Core/TabView.qml</file>
+        <file alias="TabViewV.qml">Core/TabViewV.qml</file>
+        <file alias="ElementContainer.qml">Core/ElementContainer.qml</file>
+    </qresource>
+    <qresource prefix="/UI/JSLibs">
+        <file alias="ThreeParts.js">JSLibs/ThreeParts.js</file>
+        <file alias="Util.js">JSLibs/Util.js</file>
+    </qresource>
+    <qresource prefix="/UI/JSLibs/JSCommon">
+        <file alias="Constant.js">JSLibs/JSCommon/Constant.js</file>
+    </qresource>
+</RCC>

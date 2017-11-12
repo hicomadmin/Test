@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource-btaudio/Media_Icon_BTMusicbig.png</file>
+        <file>resource-btaudio/Media_Icon_Down_nml.png</file>
+        <file>resource-btaudio/Media_Icon_Play_nml.png</file>
+        <file>resource-btaudio/Media_Icon_Stop_nml.png</file>
+        <file>resource-btaudio/Media_Icon_Up_nml.png</file>
+        <file>resource-btaudio/Media_Button_Line.png</file>
+        <file>resource-btaudio/Media_background2.png</file>
+        <file>resource-btaudio/Media_background2_1.png</file>
+        <file>resource-btaudio/Media_Icon_BTMusicbig1.png</file>
+        <file>resource-btaudio/Media_Icon_BTMusicbig2.png</file>
+    </qresource>
+</RCC>

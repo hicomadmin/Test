@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Demos">
+        <file alias="main.qml">Demos/main.qml</file>
+        <file alias="ControlFlow.qml">Demos/ControlFlow.qml</file>
+        <file alias="Container.qml">Demos/Container.qml</file>
+    </qresource>
+</RCC>

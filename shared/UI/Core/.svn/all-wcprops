@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnplugin/D27/d27project/!svn/ver/671/shared/UI/Core
+END
+MultiApplications.qml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnplugin/D27/d27project/!svn/ver/605/shared/UI/Core/MultiApplications.qml
+END
+TabView.qml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnplugin/D27/d27project/!svn/ver/671/shared/UI/Core/TabView.qml
+END
+TabViewV.qml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnplugin/D27/d27project/!svn/ver/671/shared/UI/Core/TabViewV.qml
+END
+Window.qml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnplugin/D27/d27project/!svn/ver/605/shared/UI/Core/Window.qml
+END
+KeyEventHandler.qml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnplugin/D27/d27project/!svn/ver/1/shared/UI/Core/KeyEventHandler.qml
+END
+StackContainer.qml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnplugin/D27/d27project/!svn/ver/605/shared/UI/Core/StackContainer.qml
+END
+VirtualApplication.qml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnplugin/D27/d27project/!svn/ver/671/shared/UI/Core/VirtualApplication.qml
+END
+StackContainer.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnplugin/D27/d27project/!svn/ver/301/shared/UI/Core/StackContainer.js
+END
+ElementContainer.qml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnplugin/D27/d27project/!svn/ver/605/shared/UI/Core/ElementContainer.qml
+END
+Page.qml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnplugin/D27/d27project/!svn/ver/605/shared/UI/Core/Page.qml
+END
+PluginsManager.qml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnplugin/D27/d27project/!svn/ver/451/shared/UI/Core/PluginsManager.qml
+END
+PluginsManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnplugin/D27/d27project/!svn/ver/1/shared/UI/Core/PluginsManager.js
+END

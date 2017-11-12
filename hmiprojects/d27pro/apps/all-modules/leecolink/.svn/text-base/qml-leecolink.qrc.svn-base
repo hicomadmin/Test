@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/leecolink">
+        <file>Application.qml</file>
+        <file>MainPage.qml</file>
+    </qresource>
+</RCC>

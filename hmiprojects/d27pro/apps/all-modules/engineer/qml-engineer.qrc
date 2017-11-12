@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/engineer">
+        <file>Application.qml</file>
+        <file>MainPage.qml</file>
+        <file>SettingUsbCer.qml</file>
+        <file>RadioAmLevel.qml</file>
+        <file>VersionInformation.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/Media_button1_list__dis.png</file>
+        <file>resources/Media_button1_list__exe.png</file>
+        <file>resources/Media_button1_list_foc.png</file>
+        <file>resources/Media_button1_list__nml.png</file>
+        <file>resources/Battery0.png</file>
+        <file>resources/Battery1.png</file>
+        <file>resources/Battery2.png</file>
+        <file>resources/Battery3.png</file>
+        <file>resources/Battery4.png</file>
+        <file>resources/Icon_Back_Dis.png</file>
+        <file>resources/Icon_Back_exe.png</file>
+        <file>resources/Icon_Back_Normal.png</file>
+        <file>resources/BG2.jpg</file>
+        <file>resources/list-A.png</file>
+    </qresource>
+</RCC>

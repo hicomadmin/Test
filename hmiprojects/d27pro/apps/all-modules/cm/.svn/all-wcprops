@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnplugin/D27/d27project/!svn/ver/1/hmiprojects/d27pro/apps/all-modules/cm
+END
+MainPage.qml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnplugin/D27/d27project/!svn/ver/1/hmiprojects/d27pro/apps/all-modules/cm/MainPage.qml
+END
+qml-cm.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnplugin/D27/d27project/!svn/ver/1/hmiprojects/d27pro/apps/all-modules/cm/qml-cm.qrc
+END
+Application.qml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnplugin/D27/d27project/!svn/ver/1/hmiprojects/d27pro/apps/all-modules/cm/Application.qml
+END
+module-cm.pri
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnplugin/D27/d27project/!svn/ver/1/hmiprojects/d27pro/apps/all-modules/cm/module-cm.pri
+END
+resources-cm.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnplugin/D27/d27project/!svn/ver/1/hmiprojects/d27pro/apps/all-modules/cm/resources-cm.qrc
+END

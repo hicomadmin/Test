@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/usb">
+        <file alias="MainPage.qml">MainPage.qml</file>
+        <file alias="Application.qml">Application.qml</file>
+        <file alias="folder.qml">folder.qml</file>
+        <file alias="image.qml">image.qml</file>
+        <file alias="music.qml">music.qml</file>
+        <file alias="music_main.qml">music_main.qml</file>
+        <file alias="music_playing.qml">music_playing.qml</file>
+        <file alias="video.qml">video.qml</file>
+        <file alias="music_all.qml">music_all.qml</file>
+        <file alias="music_album.qml">music_album.qml</file>
+        <file alias="music_artist.qml">music_artist.qml</file>
+        <file alias="video_playing.qml">video_playing.qml</file>
+        <file alias="music_album_list.qml">music_album_list.qml</file>
+        <file alias="GridViewModelData.qml">GridViewModelData.qml</file>
+        <file alias="ImageFullScreen.qml">ImageFullScreen.qml</file>
+        <file alias="music_artist_list.qml">music_artist_list.qml</file>
+        <file alias="childFolderlist.qml">childFolderlist.qml</file>
+        <file alias="usbStateDialog.qml">usbStateDialog.qml</file>
+    </qresource>
+</RCC>

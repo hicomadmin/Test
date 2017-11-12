@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources-radio/radio-bg.png</file>
+        <file>resources-radio/radio_right_tinymove.png</file>
+        <file>resources-radio/radio_right_tinymove_disable.png</file>
+        <file>resources-radio/radio_left_tinymove.png</file>
+        <file>resources-radio/radio_left_tinymove_disable.png</file>
+        <file>resources-radio/radio_ICN_power.png</file>
+        <file>resources-radio/radio_ICN_power_sel.png</file>
+        <file>resources-radio/radio-bg-orange.png</file>
+        <file>resources-radio/left_tiny_press.png</file>
+        <file>resources-radio/right_tiny_press.png</file>
+        <file>resources-radio/radio-bg-gold.png</file>
+        <file>resources-radio/left_tiny_press.2.png</file>
+        <file>resources-radio/left_tiny_press.3.png</file>
+        <file>resources-radio/right_tiny_press.2.png</file>
+        <file>resources-radio/right_tiny_press.3.png</file>
+    </qresource>
+</RCC>

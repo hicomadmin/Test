@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnplugin/D27/d27project/!svn/ver/118/hmiprojects/d27pro/apps/all-modules/calendar
+END
+Calendar.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnplugin/D27/d27project/!svn/ver/118/hmiprojects/d27pro/apps/all-modules/calendar/Calendar.h
+END
+qml-calendar.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnplugin/D27/d27project/!svn/ver/1/hmiprojects/d27pro/apps/all-modules/calendar/qml-calendar.qrc
+END
+module-calendar.pri
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnplugin/D27/d27project/!svn/ver/118/hmiprojects/d27pro/apps/all-modules/calendar/module-calendar.pri
+END
+resources-calendar.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnplugin/D27/d27project/!svn/ver/1/hmiprojects/d27pro/apps/all-modules/calendar/resources-calendar.qrc
+END
+MainPage.qml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnplugin/D27/d27project/!svn/ver/1/hmiprojects/d27pro/apps/all-modules/calendar/MainPage.qml
+END
+Calendar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnplugin/D27/d27project/!svn/ver/118/hmiprojects/d27pro/apps/all-modules/calendar/Calendar.cpp
+END
+Application.qml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnplugin/D27/d27project/!svn/ver/1/hmiprojects/d27pro/apps/all-modules/calendar/Application.qml
+END

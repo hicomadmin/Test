@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnplugin/D27/d27project/!svn/ver/818/hmiprojects/d27pro/apps/all-modules
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnplugin/D27/d27project/!svn/ver/777/hmiprojects/d27pro/apps/all-modules/main.cpp
+END
+signallog.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnplugin/D27/d27project/!svn/ver/803/hmiprojects/d27pro/apps/all-modules/signallog.h
+END
+PluginDecorator.qml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnplugin/D27/d27project/!svn/ver/768/hmiprojects/d27pro/apps/all-modules/PluginDecorator.qml
+END
+deployment.pri
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnplugin/D27/d27project/!svn/ver/1/hmiprojects/d27pro/apps/all-modules/deployment.pri
+END
+main.qml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnplugin/D27/d27project/!svn/ver/787/hmiprojects/d27pro/apps/all-modules/main.qml
+END
+all-modules.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnplugin/D27/d27project/!svn/ver/769/hmiprojects/d27pro/apps/all-modules/all-modules.pro
+END
+qml.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnplugin/D27/d27project/!svn/ver/695/hmiprojects/d27pro/apps/all-modules/qml.qrc
+END
+debuglog.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnplugin/D27/d27project/!svn/ver/816/hmiprojects/d27pro/apps/all-modules/debuglog.h
+END
