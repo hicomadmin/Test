@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>resources-theAUX/media-icon-AUX_zyseting_s.png</file>
-        <file>resources-theAUX/media-icon-AUX_zyseting_sel.png</file>
-        <file>resources-theAUX/media-icon-AUX_example_icon.png</file>
-    </qresource>
-</RCC>

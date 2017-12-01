@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/power">
-        <file>Application.qml</file>
-        <file>MainPage.qml</file>
-        <file>LockScreenNumber.qml</file>
-        <file>LockScreenClock.qml</file>
-    </qresource>
-</RCC>

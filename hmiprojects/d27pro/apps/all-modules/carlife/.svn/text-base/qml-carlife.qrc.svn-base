@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/carlife">
-        <file>Application.qml</file>
-        <file>MainPage.qml</file>
-        <file>HelpPage.qml</file>
-    </qresource>
-</RCC>

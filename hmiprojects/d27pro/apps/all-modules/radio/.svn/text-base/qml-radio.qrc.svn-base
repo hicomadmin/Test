@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="/radio">
-        <file>Application.qml</file>
-        <file>MainPage.qml</file>
-    </qresource>
-</RCC>

@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/wndlink">
-        <file>Application.qml</file>
-        <file>WNDLinkPage.qml</file>
-        <file>SettingMobile.qml</file>
-        <file>ManualPage.qml</file>
-    </qresource>
-</RCC>
